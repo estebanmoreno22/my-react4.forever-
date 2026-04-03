@@ -1,0 +1,36 @@
+{
+  "featuredMovies": [
+    { "id": 1, "titulo": "Inception", "precio": "45.000", "imagen": "inception.jpg", "categoria": "CIENCIA FICCIÓN" },
+    { "id": 2, "titulo": "Oppenheimer", "precio": "52.000", "imagen": "oppenheimer.jpg", "categoria": "DRAMA" },
+    { "id": 3, "titulo": "Spider-Man", "precio": "38.000", "imagen": "spiderman.jpg", "categoria": "ANIMACIÓN" },
+    { "id": 4, "titulo": "John Wick 4", "precio": "42.000", "imagen": "johnwick.jpg", "categoria": "ACCIÓN" },
+    { "id": 5, "titulo": "The Dark Knight", "precio": "35.000", "imagen": "batman.jpg", "categoria": "ACCIÓN" },
+    { "id": 6, "titulo": "Interstellar", "precio": "48.000", "imagen": "interstellar.jpg", "categoria": "CIENCIA FICCIÓN" }
+  ],
+  "offerMovies": [
+    {
+      "id": 101,
+      "titulo": "Top Gun: Maverick",
+      "imagen": "/imagenes/offers/maverick.jpg", 
+      "precioOriginal": "50.000",
+      "precioOferta": "29.900",
+      "descuento": 40
+    },
+    {
+      "id": 102,
+      "titulo": "Blade Runner 2049",
+      "imagen": "/imagenes/offers/bladerunner.jpg",
+      "precioOriginal": "48.000",
+      "precioOferta": "28.000",
+      "descuento": 42
+    },
+    {
+      "id": 103,
+      "titulo": "El Padrino",
+      "imagen": "/imagenes/offers/padrino.jpg",
+      "precioOriginal": "35.000",
+      "precioOferta": "19.900",
+      "descuento": 43
+    }
+  ]
+}
