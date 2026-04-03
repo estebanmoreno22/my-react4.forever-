@@ -160,6 +160,16 @@ const Login = () => {
           ¡BIENVENIDO DE NUEVO, {email.split('@')[0].toUpperCase()}!
         </Alert>
       </Snackbar>
+      <Typography variant="body2" sx={{ mt: 3, textAlign: 'center' }}>
+  <a 
+    href="https://github.com/estebanmoreno22/my-react4.forever-" 
+    target="_blank" 
+    rel="noreferrer"
+    style={{ color: '#00e5ff', textDecoration: 'none', fontWeight: 'bold' }}
+  >
+    🔗 VER CÓDIGO EN GITHUB
+  </a>
+</Typography>
     </Box>
   );
 };
